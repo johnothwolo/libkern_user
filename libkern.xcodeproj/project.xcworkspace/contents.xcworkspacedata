@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:testobj.xcodeproj">
+      location = "self:/Users/john/Documents/xcode/testobj/libkern.xcodeproj">
    </FileRef>
 </Workspace>
